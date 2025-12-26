@@ -1,6 +1,7 @@
 # Required modules.
 web.py == 0.51
 requests >= 2.23.0 ; python_version >= '3.5'
+python-multipart >= 0.0.5
 
 #
 # Optional.
